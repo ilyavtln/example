@@ -1,0 +1,20 @@
+.test {
+    padding: 10px;
+    background: antiquewhite;
+}
+
+.colored {
+    margin-top: 0;
+    color: #6f0035;
+}
+
+.my-link {
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+}
+
+.my-link:hover {
+    background-color: red;
+}
